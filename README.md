@@ -1,10 +1,10 @@
 ## Ebay Car Sales Exploration
 In this guided project, we'll work with a dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website.
 
-The dataset was originally scraped and uploaded to Kaggle. We've made a few modifications from the original dataset that was uploaded to Kaggle:
+The dataset was originally scraped and uploaded to Kaggle. I've made a few modifications from the original dataset that was uploaded to Kaggle:
 
-    We sampled 50,000 data points from the full dataset, to ensure your code runs quickly in our hosted environment
-    We dirtied the dataset a bit to more closely resemble what you would expect from a scraped dataset (the version uploaded to Kaggle was cleaned to be easier to work with)
+    I sampled 50,000 data points from the full dataset, to ensure your code runs quickly in our hosted environment
+    I dirtied the dataset a bit to more closely resemble what you would expect from a scraped dataset (the version uploaded to Kaggle was cleaned to be easier to work with)
 
 The data dictionary provided with data is as follows:
 
@@ -29,4 +29,4 @@ The data dictionary provided with data is as follows:
     postalCode - The postal code for the location of the vehicle.
     lastSeenOnline - When the crawler saw this ad last online.
 
-The aim of this project is to clean the data and analyze the included used car listings. You'll also become familiar with some of the unique benefits jupyter notebook provides for pandas. 
+The aim of this project is to clean the data and analyze the included used car listings.
