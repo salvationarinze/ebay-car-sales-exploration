@@ -1,7 +1,7 @@
 ## Ebay Car Sales Exploration
 This is a project carried out during my Data Analysis course on DataQuest
 
-In this guided project, I worked with a dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website.
+In this project, I worked with a dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website.
 
 The dataset was originally scraped and uploaded to Kaggle. I've made a few modifications from the original dataset that was uploaded to Kaggle:
 
